@@ -1,0 +1,54 @@
+Konstanta digunakan untuk menyimpan nilai yang bersifat tetap.
+
+get = variabel yang dikirim melalui url
+post = variabel yang dikirim melalui http
+isset = fungsi yang mengecek apakah sebuah variabel sudah dibuat apa belum, jika sudah true jika belum false
+ternary = percabangan seperti if else
+
+md5 digunakan untuk meng hash password pada database
+
+mysqli_num_rows == 1 digunakan untuk mengecek apakah data tersebut sudah ada didalam database
+
+untuk form login.php tidak menggunakan value
+
+$ = variabel
+
+mysqli_query = digunakan untuk melakukan koneksi ke database
+
+include_once = menginclude file
+
+<ol> / order list = digunakan untuk mengurutkan sesuai angka dan alfabet
+
+../ = digunakan untuk mundur 1 direktori file
+
+border-collapse : collapse digunakan untuk memberikan jarak antar kolom (css)
+
+selected ="true" digunakan dalam select box/combo box untuk memberikan nilai default
+
+$row=mysqli_fetch_assoc digunakan untuk mengeluarkan data yang ada didalam database
+
+ORDER BY [nama tabel] ASC / DES digunakan untuk mengurutkan data berdasarkan angka dan alfabet di dalam mysql
+SELECT nama_kolom, nama_kolom FROM nama_tabel digunakan untuk menampilkan data yang dipilih kolomnya
+
+enctype="multipart/form-data" digunakan untuk mengupload data ke dalam server *ex choosen file
+
+ckeditor (wysiwyg) = tool seperti office word (JS)
+sliderjs = tool untuk membuat banner (JS)
+
+.rupiah digunakan sebagai fugsi mata uang rupiah dengan format number
+
+#kiri float: left; *(style css)
+
+LIMIT = untuk membatasi data yg keluar dari database
+
+rand() digunakan untuk merandom data2 dari database
+
+class ='active' digunakan untuk mengetahui user sedang berada dikategori apa (+style css)
+
+$row digunakan untuk mengeluarkan data dari database
+
+--CSS-- 
+display: block;
+margin: 0px auto; // Objek / gambar berada ditengah
+
+foreach digunakan untuk mengeluarkan data dari dalam array
